@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "hackernews-react-apollo"
+		},
+		{
+			"path": "hackernews-node"
+		}
+	],
+	"settings": {}
+}
